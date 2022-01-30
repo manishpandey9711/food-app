@@ -1,0 +1,22 @@
+.recipeTile {
+    height: 40vh;
+    width: 30vw;
+}
+
+.recipeTile_img {
+    margin: 5vh 0.25vw 0 0.25vw;
+    height: 30vh;
+    width: 25vw;
+    border-radius: 4px;
+    justify-content: center;
+    border: 2px solid grey;
+    position: relative;
+}
+
+.recipeTile_name {
+    width: 30vw;
+    text-align: center;
+    margin: 0.25vh 0.25vw;
+    animation: baseline;
+    position: relative;
+}
